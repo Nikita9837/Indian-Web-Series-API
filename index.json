@@ -1902,5 +1902,27 @@
     "releaseDate": {
       "S1": "16 december 2021"
     }
-  }
+  },
+  {
+        "id": 551,
+        "name": "Adulting",
+        "rating": 7.6,
+        "description": "Ray and Nikhat encounter several ups and downs as they embrace adulthood in their unique ways in a city as fast-paced as Mumbai.",
+        "category": ["Comedy", "Drama"],
+        "platform": "YouTube",
+        "casting": {
+          "actors": [
+            "Aisha Ahmad",
+            "Yashaswini Dayama",
+            "Viraj Gelani"
+          ],
+          "director": ["Jessica sadana"]
+        },
+        "poster": "https://www.themoviedb.org/t/p/w500/kbXAKBYR5ui7eDgJz3kxCF9Ddkn.jpg",
+        "episodeCount": 5,
+        "seasons": 3,
+        "releaseDate": {
+          "S1": "18 April 2018"
+        }
+      }
 ]
